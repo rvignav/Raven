@@ -134,10 +134,10 @@ $(document).ready(function()
 			var playlist = 
 			[
 				{
-					title:"Better Days",
-					artist:"Bensound",
-					mp3:"files/bensound-betterdays.mp3",
-					duration:"2.33"
+					title:"Enduring Earth and Sky (Crosmer)",
+					artist:"Raven",
+					mp3:"files/Recording.mp3",
+					duration:"1.45"
 				},
 				{
 					title:"Dubstep",
